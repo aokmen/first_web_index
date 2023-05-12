@@ -6,7 +6,7 @@
 
 # Description:
 
-
+###
 This is an HTML and CSS code for a webpage. The webpage contains a header with a logo and a navigation menu, a main section with an article and two images, a section to join the club, and a footer.
 ---
 The header has a red background and the logo is centered. The navigation menu is positioned below the header and has four items with links. The main section has a width of 1200px, and contains an article with a title and some text. The article has two images below it, both aligned to the center.
